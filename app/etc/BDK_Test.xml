@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <BDK_Test>
+            <active>true</active>
+            <codePool>local</codePool>
+        </BDK_Test>
+    </modules>
+</config>
